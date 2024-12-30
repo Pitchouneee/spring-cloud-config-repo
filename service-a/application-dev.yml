@@ -1,2 +1,4 @@
 spring:
-  application.name: service-a-dev
+  application.name: service-a
+app:
+  env: service-a-dev
