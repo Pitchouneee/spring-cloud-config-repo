@@ -1,5 +1,3 @@
-spring:
-  application.name: default-name
 management:
   endpoints:
     enabled-by-default: false
